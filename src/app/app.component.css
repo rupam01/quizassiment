@@ -1,0 +1,16 @@
+
+.isCorrect_true{
+    background-color: green;
+  }
+  
+  .isCorrect_false{
+    background-color: red;
+  }
+
+  .invalid_data{
+    border: 1px solid red;
+  }
+
+  .invalid_data{
+    border: none;
+  }
